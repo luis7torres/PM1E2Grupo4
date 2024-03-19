@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PM1E2Grupo4</string>
+    <string name="btn_firmadigital">Firma Digital</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_latitud">Latitud</string>
+    <string name="hint_longitud">Longitud</string>
+    <string name="btn_salvarcontactos">Salvar Contactos</string>
+    <string name="btn_contactossalvados">Contactos Salvados</string>
+    <string name="btn_atras">Atras</string>
+    <string name="hint_nombre2">Nombre</string>
+    <string name="hint_telefono2">Telefono</string>
+    <string name="hint_latitud2">Latitud</string>
+    <string name="hint_longitud2">Longitud</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar\n</string>
+    <string name="btn_eliminar2">Eliminar</string>
+    <string name="btn_vermapa">Ver Mapa</string>
+    <string name="btn_contactos">Contactos</string>
+    <string name="btn_contactos2">Contactos</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_eliminar3">Eliminar</string>
+    <string name="btn_driving">Opcion de Driving</string>
+    <string name="hint_buscar">Buscar...</string>
+</resources>

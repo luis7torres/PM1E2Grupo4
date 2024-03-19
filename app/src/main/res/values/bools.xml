@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="false_lat">false</bool>
+    <bool name="false_lon">false</bool>
+    <bool name="lati" />
+</resources>
